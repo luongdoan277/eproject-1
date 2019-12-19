@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01b8741b-1659-4f63-bbd0-ff1a86f242da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Customer support.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer support.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Information security policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Information security policy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/payment policy.html" afterDir="false" />
-    </list>
+    <list default="true" id="01b8741b-1659-4f63-bbd0-ff1a86f242da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576766928269</updated>
-      <workItem from="1576766932507" duration="290000" />
+      <workItem from="1576766932507" duration="476000" />
     </task>
     <servers />
   </component>
