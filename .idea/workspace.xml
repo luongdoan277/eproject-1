@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01b8741b-1659-4f63-bbd0-ff1a86f242da" name="Default Changelist" comment="" />
+    <list default="true" id="01b8741b-1659-4f63-bbd0-ff1a86f242da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backpack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/MENU....css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/backpack.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,8 +32,10 @@
   <component name="ProjectId" id="1VCpS2URKNhXimtyMnp5xPOsu4O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,6 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1576766928269</updated>
       <workItem from="1576766932507" duration="476000" />
+      <workItem from="1576767757153" duration="499000" />
+      <workItem from="1576901753911" duration="554000" />
+      <workItem from="1576903303965" duration="11992000" />
+      <workItem from="1576930989702" duration="1660000" />
+      <workItem from="1577021303817" duration="5362000" />
+      <workItem from="1577026856024" duration="5066000" />
+      <workItem from="1577062560362" duration="3848000" />
+      <workItem from="1577086230854" duration="4822000" />
+      <workItem from="1577091738832" duration="4119000" />
+      <workItem from="1577169204478" duration="7402000" />
     </task>
     <servers />
   </component>
@@ -51,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
